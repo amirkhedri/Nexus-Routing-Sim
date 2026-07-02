@@ -34,7 +34,7 @@ The project features an advanced **Graphical User Interface (GUI)** that allows 
 ### Running the Simulator
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/amirkhedri/Nexus-Routing-Sim.git](https://github.com/amirkhedri/Nexus-Routing-Sim.git)
+    git clone https://github.com/amirkhedri/Nexus-Routing-Sim.git
     cd Nexus-Routing-Sim
     ```
 2.  Run the main application:
